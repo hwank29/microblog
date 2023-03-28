@@ -3,3 +3,9 @@
 
 # no virtual environment
 venv
+
+# no .DS_Store
+.DS_Store
+
+# no .gitignore
+.gitignore
